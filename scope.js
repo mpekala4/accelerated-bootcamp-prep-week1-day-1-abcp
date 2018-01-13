@@ -10,6 +10,8 @@ function dogInfo(){
 
 setSpeciesVariable();
 dogInfo();
+Species is species
+Name is Fido
 
 function setSpeciesVariable() {
   species = "cat"
@@ -25,4 +27,3 @@ function catInfo() {
 
 setSpeciesVariable();
 catInfo();
-
